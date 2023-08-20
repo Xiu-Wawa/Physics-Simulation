@@ -1,5 +1,3 @@
-# Physics-Simulation
-
 # Coupled Oscillations Simulation
 
 This is a Python simulation of coupled oscillations using the Tkinter and Matplotlib libraries. It demonstrates the behavior of two masses connected by springs and interacting with each other.
@@ -23,3 +21,6 @@ To run the simulation, follow these steps:
    ```sh
    git clone https://github.com/yourusername/Physics-Simulation.git
    cd Physics-Simulation
+
+2. pip install matplotlib numpy
+
